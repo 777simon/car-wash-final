@@ -132,7 +132,7 @@ else
                                     <li><i class="far fa-check-circle"></i>Carpet Care</li>
                                     <li><i class="far fa-check-circle"></i>Interior Wet Cleaning</li>
                                     <li><i class="far fa-check-circle"></i>Window Wiping</li>
-                                    <li><i class="far fa-times-circle"></i>Executive Carwash</li>
+                                    <li><i class="far fa-check-circle"></i>Executive Carwash</li>
                             </ul>
                             <a class="btn btn-custom" href="about.php">Learn More</a>
                         </div>

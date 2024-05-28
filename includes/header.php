@@ -2,10 +2,10 @@
         <div class="top-bar">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12">
+                    <div class="col-lg-4 col-md-16">
                         <div class="logo">
                             <a href="index.php">
-                                <h1>CAR <span>Wash</span></h1>
+                                <h1>Muthaiga <span>CarCare</span></h1>
                                 <!-- <img src="img/logo.jpg" alt="Logo"> -->
                             </a>
                         </div>
