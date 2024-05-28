@@ -126,10 +126,13 @@ else
                                 Lorem ipsum dolor sit amet elit. In vitae turpis. Donec in hendre dui, vel blandit massa. Ut vestibu suscipi cursus. Cras quis porta nulla, ut placerat risus. Aliquam nec magna eget velit luctus dictum
                             </p>
                             <ul>
-                                <li><i class="far fa-check-circle"></i>Seats washing</li>
-                                <li><i class="far fa-check-circle"></i>Vacuum cleaning</li>
-                                <li><i class="far fa-check-circle"></i>Interior wet cleaning</li>
-                                <li><i class="far fa-check-circle"></i>Window wiping</li>
+                                    <li><i class="far fa-check-circle"></i>Seats Washing</li>
+                                    <li><i class="far fa-check-circle"></i>Vacuum Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Exterior Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Carpet Care</li>
+                                    <li><i class="far fa-check-circle"></i>Interior Wet Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-times-circle"></i>Executive Carwash</li>
                             </ul>
                             <a class="btn btn-custom" href="about.php">Learn More</a>
                         </div>
@@ -260,15 +263,17 @@ else
                         <div class="price-item">
                             <div class="price-header">
                                 <h3>Basic Cleaning</h3>
-                                <h2><span>$</span><strong>10</strong><span>.99</span></h2>
+                                <h2><span>ksh</span><strong>10</strong><span>.99</span></h2>
                             </div>
                             <div class="price-body">
                                 <ul>
                                     <li><i class="far fa-check-circle"></i>Seats Washing</li>
                                     <li><i class="far fa-check-circle"></i>Vacuum Cleaning</li>
                                     <li><i class="far fa-check-circle"></i>Exterior Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Carpet Care</li>
                                     <li><i class="far fa-times-circle"></i>Interior Wet Cleaning</li>
                                     <li><i class="far fa-times-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-times-circle"></i>Executive Carwash</li>
                                 </ul>
                             </div>
                             <div class="price-footer">
@@ -280,15 +285,17 @@ else
                         <div class="price-item featured-item">
                             <div class="price-header">
                                 <h3>Premium Cleaning</h3>
-                                <h2><span>$</span><strong>20</strong><span>.99</span></h2>
+                                <h2><span>ksh</span><strong>20</strong><span>.99</span></h2>
                             </div>
                             <div class="price-body">
                                 <ul>
                                     <li><i class="far fa-check-circle"></i>Seats Washing</li>
                                     <li><i class="far fa-check-circle"></i>Vacuum Cleaning</li>
                                     <li><i class="far fa-check-circle"></i>Exterior Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Carpet Care</li>
                                     <li><i class="far fa-check-circle"></i>Interior Wet Cleaning</li>
-                                    <li><i class="far fa-times-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-check-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-times-circle"></i>Executive Carwash</li>
                                 </ul>
                             </div>
                             <div class="price-footer">
@@ -300,15 +307,17 @@ else
                         <div class="price-item">
                             <div class="price-header">
                                 <h3>Complex Cleaning</h3>
-                                <h2><span>$</span><strong>30</strong><span>.99</span></h2>
+                                <h2><span>ksh</span><strong>30</strong><span>.99</span></h2>
                             </div>
                             <div class="price-body">
                                 <ul>
                                     <li><i class="far fa-check-circle"></i>Seats Washing</li>
                                     <li><i class="far fa-check-circle"></i>Vacuum Cleaning</li>
                                     <li><i class="far fa-check-circle"></i>Exterior Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Carpet Care</li>
                                     <li><i class="far fa-check-circle"></i>Interior Wet Cleaning</li>
                                     <li><i class="far fa-check-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-check-circle"></i>Executive Carwash</li>
                                 </ul>
                             </div>
                             <div class="price-footer">
