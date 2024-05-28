@@ -1,0 +1,6 @@
+title: Car wash website with admin
+description: >- # this means to ignore newlines until "baseurl:"
+  website for car wash system
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/777simon.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal # you can choose any theme you prefer
