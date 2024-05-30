@@ -72,10 +72,13 @@ foreach($results as $result)
                         <?php } ?>
                         <hr />
                             <ul>
-                                <li><i class="far fa-check-circle"></i>Seats washing</li>
-                                <li><i class="far fa-check-circle"></i>Vacuum cleaning</li>
-                                <li><i class="far fa-check-circle"></i>Interior wet cleaning</li>
-                                <li><i class="far fa-check-circle"></i>Window wiping</li>
+                                    <li><i class="far fa-check-circle"></i>Seats Washing</li>
+                                    <li><i class="far fa-check-circle"></i>Vacuum Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Exterior Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Carpet Care</li>
+                                    <li><i class="far fa-check-circle"></i>Interior Wet Cleaning</li>
+                                    <li><i class="far fa-check-circle"></i>Window Wiping</li>
+                                    <li><i class="far fa-check-circle"></i>Executive Carwash</li>
                             </ul>
                   
                         </div>

@@ -97,7 +97,7 @@ else
                         </div>
                         <div class="carousel-text">
                             <h3>Washing & Detailing</h3>
-                            <h1>Exterior & Interior Washing</h1>
+                            <h1>Executive Carwash</h1>
                     
                         </div>
                     </div>
@@ -123,7 +123,7 @@ else
                         </div>
                         <div class="about-content">
                             <p>
-                                Lorem ipsum dolor sit amet elit. In vitae turpis. Donec in hendre dui, vel blandit massa. Ut vestibu suscipi cursus. Cras quis porta nulla, ut placerat risus. Aliquam nec magna eget velit luctus dictum
+                            At <i>muthaiga carcare<i>, we’re passionate about keeping your vehicles spotless and shining. Our commitment to excellence and customer satisfaction sets us apart in the car wash industry. Here’s what makes us unique:
                             </p>
                             <ul>
                                     <li><i class="far fa-check-circle"></i>Seats Washing</li>
@@ -190,13 +190,13 @@ else
                     <div class="col-lg-3 col-md-6">
                         <div class="service-item">
                             <i class="flaticon-car-wash"></i>
-                            <h3>Oil Changing</h3>
+                            <h3>Carpet Care</h3>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="service-item">
                             <i class="flaticon-brush-1"></i>
-                            <h3>Brake Reparing</h3>
+                            <h3>Executive Carwash</h3>
                         </div>
                     </div>
                 </div>
@@ -240,7 +240,7 @@ else
                         <div class="facts-item">
                             <i class="fa fa-check"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">5000</h3>
+                                <h3 data-toggle="counter-up">1000</h3>
                                 <p>Projects Completed</p>
                             </div>
                         </div>
@@ -350,9 +350,9 @@ else
   <p>
             <select name="packagetype" required class="form-control">
                 <option value="">Package Type</option>
-                <option value="1">BASIC CLEANING ($10.99)</option>
-                 <option value="2">PREMIUM CLEANING ($20.99)</option>
-                  <option value="3 ">COMPLEX CLEANING($30.99)</option>
+                <option value="1">BASIC CLEANING (ksh10.99)</option>
+                 <option value="2">PREMIUM CLEANING (ksh20.99)</option>
+                  <option value="3 ">COMPLEX CLEANING(ksh30.99)</option>
               </select>
 
           <p>
