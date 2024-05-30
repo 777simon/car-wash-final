@@ -6,7 +6,7 @@ include('includes/config.php');
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Car Wash management System | About Us Page</title>
+        <title>Muthaiga Carcare | About Us Page</title>
    
 
         <!-- Google Font -->

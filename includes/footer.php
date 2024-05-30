@@ -44,7 +44,7 @@ foreach($results as $result)
                 </div>
             </div>
             <div class="container copyright">
-                <p>Car Wash Management System</p>
+                <p>Muthaiga Carcare</p>
             </div>
         </div>
         <!-- Footer End -->        <!-- Back to top button -->
