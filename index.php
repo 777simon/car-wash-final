@@ -123,7 +123,7 @@ else
                         </div>
                         <div class="about-content">
                             <p>
-                            At <i>muthaiga carcare<i>, we’re passionate about keeping your vehicles spotless and shining. Our commitment to excellence and customer satisfaction sets us apart in the car wash industry. Here’s what makes us unique:
+                            At <i>muthaiga carcare</i>, we’re passionate about keeping your vehicles spotless and shining. Our commitment to excellence and customer satisfaction sets us apart in the car wash industry. Here’s what makes us unique:
                             </p>
                             <ul>
                                     <li><i class="far fa-check-circle"></i>Seats Washing</li>
