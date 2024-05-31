@@ -231,7 +231,7 @@ else
                         <div class="facts-item">
                             <i class="fa fa-users"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">1500</h3>
+                                <h3 data-toggle="counter-up">1450</h3>
                                 <p>Happy Clients</p>
                             </div>
                         </div>
@@ -240,7 +240,7 @@ else
                         <div class="facts-item">
                             <i class="fa fa-check"></i>
                             <div class="facts-text">
-                                <h3 data-toggle="counter-up">1000</h3>
+                                <h3 data-toggle="counter-up">1500</h3>
                                 <p>Projects Completed</p>
                             </div>
                         </div>
